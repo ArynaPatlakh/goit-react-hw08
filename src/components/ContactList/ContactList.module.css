@@ -1,0 +1,13 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 25px 0 50px;
+}
+
+.loader_wrapper {
+  display: flex;
+  justify-content: center;
+  height: 80px;
+}
